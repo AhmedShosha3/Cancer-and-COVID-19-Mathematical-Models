@@ -1,0 +1,8 @@
+*.asv
+*.autosave
+*.m~
+slprj/
+~$*
+myVideo*.mp4
+*.avi
+Thumbs.db
