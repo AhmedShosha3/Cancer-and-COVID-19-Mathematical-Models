@@ -1,8 +1,15 @@
-*.asv
-*.autosave
-*.m~
-slprj/
-~$*
-myVideo*.mp4
-*.avi
-Thumbs.db
+# macOS
+.DS_Store
+
+# MATLAB / Simulink generated files
+*.slxc
+codegen/
+*.mex*
+*.log
+
+# Generated videos (broader than myVideo*.mp4)
+*.mp4
+*.mov
+
+# Generated data (see note below)
+*.mat
