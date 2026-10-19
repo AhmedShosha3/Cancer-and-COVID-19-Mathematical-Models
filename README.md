@@ -16,13 +16,14 @@ Open MATLAB, set the current folder to `Cancer Model/` or `Corona Model/`, and r
 
 ## Notes
 
-- `Real_Data.m` compares the infected compartment with reported case data after scaling the data to the model's peak and shifting it in time. It is an alignment of shapes, not a statistical fit.
+- `Real_Data.m` compares the infected compartment with reported case data after scaling the data to the model's peak and shifting it in time. It is an alignment of shapes.
 - Some scripts in `Cancer Model/` call the fractional solvers one time step at a time.
 - Several scripts record videos or write files to the current folder.
 
 ## Team and contribution
 
-Academic team graduation project. My part: MATLAB implementation of the models and numerical methods, simulations and comparison plots, and writing part of the report.
+Academic team graduation project.
+My part: MATLAB implementation of the models and numerical methods, simulations and comparison plots.
 
 ## Author
 
